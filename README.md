@@ -20,7 +20,7 @@
   ## Usage
   Copy and paste the schema.sql file contents into MySQL Workbench and run it to create the database. Do the same with the seed.sql file to populate the database with seed data. Return to the CLI and enter "node app.js" to run the application.
 
-  ![Employee Tracker Demo](.employee-tracker-DEMO.gif)
+  ![Employee Tracker Demo](./employee-tracker-DEMO.gif)
 
   <a name="license"></a>
   ## License
